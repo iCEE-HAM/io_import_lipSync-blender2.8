@@ -4,7 +4,7 @@ io_import_lipSync_Importer.py for Blender 2.8
 This plugin is not made by me but was updated to support Blender 2.8
 
 IMPORTENT READ BEFORE USE.
-The plugin has only been tested with Pappagayo ".dat" files and only with the use of shape keys, the Pappagayo software used was Pappagayo-NG 1.4.2 https://github.com/morevnaproject/papagayo-ng . There is also a know bug with the diractory were the backslash has to be replaced with commen slash example "F:\exaple\example\Adum.dat".
+The plugin has only been tested with Pappagayo ".dat" files and only with the use of shape keys, the Pappagayo software used was Pappagayo-NG 1.4.2 https://github.com/morevnaproject/papagayo-ng . There is also a know bug with the diractory were you need to manually type in the backslash example "F:\exaple\example\Adum.dat".
 
 Tutorial I recomand for making the shapekeys and importing the .dat files https://youtu.be/OV45cE7pl3o
 
