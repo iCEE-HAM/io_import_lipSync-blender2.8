@@ -264,7 +264,7 @@ def addFlexRigKey(frame=0, pose=""):
     
 
 
-# -----------code contributed by dalai felinto adds armature support modified by me-------------------
+# -----------code contributed by dalai felinto adds armature support modified by Looch-------------------
 
 bone_keys = {
 "AI":   ('location', 0),
