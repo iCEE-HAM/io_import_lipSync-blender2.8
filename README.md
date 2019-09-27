@@ -1,3 +1,5 @@
+<img width="1414" src="https://raw.githubusercontent.com/iCEE-HAM/io_import_lipSync-blender2.8/master/Lipsync%20importer.PNG">
+
 # io_import_lipSync-blender2.8
 io_import_lipSync_Importer.py for Blender 2.8
 
